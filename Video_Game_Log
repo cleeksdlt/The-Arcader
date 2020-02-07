@@ -1,0 +1,9 @@
+Video Game Log
+
+1.0 - Created Unity file
+1.01 - Imported assets from opengameart.org and from Kenney website
+1.02 - Attached skins to character, adjusted proper settings for animation character such as changing rig to humanoid instead of generic 
+1.03 - Imported spotlight, terrain, material for the terrain
+1.04 - Created two scripts: MouseLook (controls camera) and PlayerMovement (controls character)
+1.4.1 - Fixed bug that caused character to be slightly higher than the terrain when the game would start. Fixed by adjusting height in character controller and the center
+1.05 - 
