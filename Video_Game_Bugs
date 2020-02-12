@@ -2,7 +2,7 @@ Video Game Bugs
 
 1.0 - Camera always points down at the characters feet instead of forward
 
-1.01 - Can see through characters body if camera is moved upwards towards the sky 
+1.01 - Can see through characters body if camera is moved upwards towards the sky - RESOLVED
 
 1.02 - Character has run animation but does not have animation when character is moving with A & D key but works with W & S key 
 
