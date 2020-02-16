@@ -7,3 +7,9 @@ Video Game Log
 1.04 - Created two scripts: MouseLook (controls camera) and PlayerMovement (controls character)
 1.4.1 - Fixed bug that caused character to be slightly higher than the terrain when the game would start. Fixed by adjusting height in character controller and the center
 1.05 - Bug 1.03 RESOLVED: Changed the if statement inside of the "isGrounded && velocity.y < 0" to set the animator to false rather than having it after the if statement asking if the character has jumped
+1.5.1 - Bug 1.01 RESOLVED: Changed Clamp rotation to -10f and 45f and moved camera back to allow for the character to be seen better and limit camera rotation
+1.5.2 - Created the ground dirt and added an empty terrain gameobject to track all items inside of terrain and not have a giant cluster of game objects in the hierarchy
+1.5.3 - Began adding terrain to the environment but no colliders have been added yet 
+1.5.4 - Reduced the map size due to the objects being larger than expected and able to resize the environment around the character
+1.5.5 - Fixed environment sunlight by changing it at a 90 degree angle pointing directly down onto the terrain. And fixed the camera perspective by changing it from orthographic to perspective and adjusting the field of view
+1.6 - Created first build to verify that game could be successfully be played
