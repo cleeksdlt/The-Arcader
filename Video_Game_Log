@@ -12,3 +12,4 @@ Video Game Log
 1.5.3 - Began adding terrain to the environment but no colliders have been added yet 
 1.5.4 - Reduced the map size due to the objects being larger than expected and able to resize the environment around the character
 1.5.5 - Fixed environment sunlight by changing it at a 90 degree angle pointing directly down onto the terrain. And fixed the camera perspective by changing it from orthographic to perspective and adjusting the field of view
+1.6 - Created first build to verify that game could be successfully be played
